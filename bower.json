@@ -1,0 +1,12 @@
+{
+  "name": "cjb-base",
+  "main": "./lib/cjb-base.js",
+  "ignore": [
+    "**/.*",
+    "component.json",
+    "package.json",
+    "Makefile",
+    "tests",
+    "examples"
+  ]
+}

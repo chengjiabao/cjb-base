@@ -1,0 +1,26 @@
+{
+  "name": "cjb-base",
+  "version": "0.0.32",
+  "description": "cjb-base",
+  "main": "./lib/cjb-base.source.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chengjiabao/cjb-base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chengjiabao/cjb-base/issues"
+  },
+  "homepage": "https://github.com/chengjiabao/cjb-base#readme",
+  "keywords": [
+    "cjb-base"
+  ],
+  "author": "yuchonghua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengjiabao/cjb-base/issues"
+  },
+  "homepage": "https://github.com/chengjiabao/cjb-base#readme"
+}
